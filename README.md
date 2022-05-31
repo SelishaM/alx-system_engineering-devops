@@ -1,1 +1,1 @@
-File 0 - Script that switches the current user to the user betty
+File 0 - script that creates an alias
